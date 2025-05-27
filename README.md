@@ -60,7 +60,7 @@ spring-security-jwt-authentication/
 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/spring-security-jwt-authentication.git
+git clone https://github.com/IT21826740/Learn-spring-security-jwt-authentication.git
 cd spring-security-jwt-authentication
 ```
 
